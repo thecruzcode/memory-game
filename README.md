@@ -1,4 +1,4 @@
-- Memory Game
+- Memory Game (Throwback style)
 
 A retro grid-based game in vanilla JavaScript, HTML and CSS
 
